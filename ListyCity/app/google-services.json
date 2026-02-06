@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655640241253",
+    "project_id": "opcode-lab5-vedant",
+    "storage_bucket": "opcode-lab5-vedant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655640241253:android:0afc9a40fdbffc2d2d128c",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqN-cEJ_Qp7zGu1x-Y4I0YaBzydcAjf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
