@@ -2,8 +2,10 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Vedant Patel`
+- **CCID:** `vspatel1`
+
+IMPORTANT (PLEASE READ): When you click on a city, you can see a delete button which you can use.
 
 ## References and Resources
 
